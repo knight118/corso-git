@@ -1,0 +1,3 @@
+mamma ho perso laereo > file2.txt
+git status
+echo mamma ho perso laereo
